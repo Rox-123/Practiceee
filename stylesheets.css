@@ -15,7 +15,11 @@ li {
 }
 
 a {
+<<<<<<< HEAD
   color: blue;
+=======
+  color: green;
+>>>>>>> feature/link-color-change
 }
 
 /* menu li {
