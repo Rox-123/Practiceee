@@ -1,0 +1,24 @@
+
+.menu {
+  overflow: hidden;
+  /* display: inline-block; */
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+  text-align: center;
+}
+
+a {
+  color: darkgrey;
+}
+
+/* menu li {
+  display: inline-block;
+  text-align: center;
+} */
